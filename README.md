@@ -1,7 +1,8 @@
-<h1 align="center">
-  👑 $\mathbf{\Huge \color{#007BFF} welcome \space visitors!}$ 👑
-</h1>
-
+<marquee>
+  <span style="color: pink;">
+    ♡ Welcome to my GitHub profile ♡
+  </span>
+</marquee>
 
 ![Ảnh minh họa](https://i.pinimg.com/originals/92/49/21/924921f03066badf160c34fadcef83f0.gif)
 
