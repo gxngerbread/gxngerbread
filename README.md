@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FE5F4A&width=435&lines=there's+nothing+%2C+interesting+for+now,;but+ thanks+for+visiting!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FE5F4A&width=435&lines=HELLO+%2C+EVERYONE!;there's+nothing+interesting+here+for+now,"!but...;thanks+for+visiting!)](https://git.io/typing-svg)
 
 ![Ảnh minh họa](https://i.pinimg.com/1200x/b3/fa/ed/b3faedf751b190be4d2f90aa04b9c1c6.jpg)
 
