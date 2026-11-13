@@ -1,9 +1,4 @@
-<marquee>
-  <span style="color: pink;">
-    ♡ Welcome to my GitHub profile ♡
-  </span>
-</marquee>
 
-![Ảnh minh họa](https://i.pinimg.com/originals/92/49/21/924921f03066badf160c34fadcef83f0.gif)
+![Ảnh minh họa](https://i.pinimg.com/1200x/b3/fa/ed/b3faedf751b190be4d2f90aa04b9c1c6.jpg)
 
 ![abdc](https://i.pinimg.com/originals/1e/3c/af/1e3caf47502c73e09f095f6b58dcece5.gif)
